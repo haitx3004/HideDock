@@ -1,0 +1,8 @@
+Package: de.haitx3004.hidedock
+Name: HideDock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide dock on home screen 
+Maintainer: haitx3004
+Author: haitx3004
+Section: Tweaks
